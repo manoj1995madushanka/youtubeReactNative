@@ -1,0 +1,288 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "\"KEUMKBAfMFio6qdGCa6Hez6bAHI/cejCtLduIr8M2iiidj3uVuSJKuc\"",
+  "nextPageToken": "CAUQAA",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 5
+  },
+  "tokenPagination": {
+    "nextPageToken": "CAUQAA"
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"KEUMKBAfMFio6qdGCa6Hez6bAHI/Pu-dwGh_9Q0aafHXrkx9ECAwc4s\"",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCK8sQmJBp8GCxrOtXWBpyEA"
+      },
+      "snippet": {
+        "publishedAt": "2005-09-18T22:37:10.000Z",
+        "channelId": "UCK8sQmJBp8GCxrOtXWBpyEA",
+        "title": "Google",
+        "description": "Google's official YouTube channel.",
+        "thumbnails": {
+          "default": {
+            "url": "https://lh4.googleusercontent.com/-v0soe-ievYE/AAAAAAAAAAI/AAAAAAAAAAA/OixOH_h84Po/photo.jpg"
+          },
+          "medium": {
+            "url": "https://lh4.googleusercontent.com/-v0soe-ievYE/AAAAAAAAAAI/AAAAAAAAAAA/OixOH_h84Po/photo.jpg"
+          },
+          "high": {
+            "url": "https://lh4.googleusercontent.com/-v0soe-ievYE/AAAAAAAAAAI/AAAAAAAAAAA/OixOH_h84Po/photo.jpg"
+          }
+        },
+        "channelTitle": "Google"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"KEUMKBAfMFio6qdGCa6Hez6bAHI/DGW_V1fYKVVqb-sopYD-HN5Sc2c\"",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCbmNph6atAoGfqLoCL_duAg"
+      },
+      "snippet": {
+        "publishedAt": "2006-12-19T19:49:14.000Z",
+        "channelId": "UCbmNph6atAoGfqLoCL_duAg",
+        "title": "AtGoogleTalks",
+        "description": "The Talks at Google program brings authors, musicians, innovators, and speakers of all stripes to Google for talks centering on their recently published book...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/i/bmNph6atAoGfqLoCL_duAg/1.jpg"
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/i/bmNph6atAoGfqLoCL_duAg/mq1.jpg"
+          },
+          "high": {
+            "url": "https://i.ytimg.com/i/bmNph6atAoGfqLoCL_duAg/hq1.jpg"
+          }
+        },
+        "channelTitle": "AtGoogleTalks"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"KEUMKBAfMFio6qdGCa6Hez6bAHI/I5ypNtouE9bdAG6sqDFSl2uE96U\"",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCtXKDgv1AVoG88PLl8nGXmw"
+      },
+      "snippet": {
+        "publishedAt": "2007-08-15T23:10:56.000Z",
+        "channelId": "UCtXKDgv1AVoG88PLl8nGXmw",
+        "title": "GoogleTechTalks",
+        "description": "Google Tech Talks is a grass-roots program at Google for sharing information of interest to the technical community. At its best, it's part of an ongoing dis...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/i/tXKDgv1AVoG88PLl8nGXmw/1.jpg"
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/i/tXKDgv1AVoG88PLl8nGXmw/mq1.jpg"
+          },
+          "high": {
+            "url": "https://i.ytimg.com/i/tXKDgv1AVoG88PLl8nGXmw/hq1.jpg"
+          }
+        },
+        "channelTitle": "GoogleTechTalks"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"KEUMKBAfMFio6qdGCa6Hez6bAHI/0n-zkr-27eu13b_8AVWArohE3No\"",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw"
+      },
+      "snippet": {
+        "publishedAt": "2007-08-23T00:34:43.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "GoogleDevelopers",
+        "description": "Talks, screencasts, interviews, and more relevant to Google's developer products.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/i/_x5XG1OV2P6uZZ5FSM9Ttw/1.jpg"
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/i/_x5XG1OV2P6uZZ5FSM9Ttw/mq1.jpg"
+          },
+          "high": {
+            "url": "https://i.ytimg.com/i/_x5XG1OV2P6uZZ5FSM9Ttw/hq1.jpg"
+          }
+        },
+        "channelTitle": "GoogleDevelopers"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"KEUMKBAfMFio6qdGCa6Hez6bAHI/vFeSVNELZ1cdlrfUIGRSqZR_vM0\"",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCg44zX42-GjMr5XqyK3RmsQ"
+      },
+      "snippet": {
+        "publishedAt": "2012-07-11T14:19:41.000Z",
+        "channelId": "UCg44zX42-GjMr5XqyK3RmsQ",
+        "title": "googlefiberofficial",
+        "description": "Google Fiber starts with a connection speed 100 times faster than today's average broadband. Instant downloads. Crystal clear HD. And endless possibilities. ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/i/g44zX42-GjMr5XqyK3RmsQ/1.jpg"
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/i/g44zX42-GjMr5XqyK3RmsQ/mq1.jpg"
+          },
+          "high": {
+            "url": "https://i.ytimg.com/i/g44zX42-GjMr5XqyK3RmsQ/hq1.jpg"
+          }
+        },
+        "channelTitle": "googlefiberofficial"
+      }
+    }
+  ],
+  "result": {
+    "kind": "youtube#searchListResponse",
+    "etag": "\"KEUMKBAfMFio6qdGCa6Hez6bAHI/cejCtLduIr8M2iiidj3uVuSJKuc\"",
+    "nextPageToken": "CAUQAA",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 5
+    },
+    "tokenPagination": {
+      "nextPageToken": "CAUQAA"
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"KEUMKBAfMFio6qdGCa6Hez6bAHI/Pu-dwGh_9Q0aafHXrkx9ECAwc4s\"",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCK8sQmJBp8GCxrOtXWBpyEA"
+        },
+        "snippet": {
+          "publishedAt": "2005-09-18T22:37:10.000Z",
+          "channelId": "UCK8sQmJBp8GCxrOtXWBpyEA",
+          "title": "Google",
+          "description": "Google's official YouTube channel.",
+          "thumbnails": {
+            "default": {
+              "url": "https://lh4.googleusercontent.com/-v0soe-ievYE/AAAAAAAAAAI/AAAAAAAAAAA/OixOH_h84Po/photo.jpg"
+            },
+            "medium": {
+              "url": "https://lh4.googleusercontent.com/-v0soe-ievYE/AAAAAAAAAAI/AAAAAAAAAAA/OixOH_h84Po/photo.jpg"
+            },
+            "high": {
+              "url": "https://lh4.googleusercontent.com/-v0soe-ievYE/AAAAAAAAAAI/AAAAAAAAAAA/OixOH_h84Po/photo.jpg"
+            }
+          },
+          "channelTitle": "Google"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"KEUMKBAfMFio6qdGCa6Hez6bAHI/DGW_V1fYKVVqb-sopYD-HN5Sc2c\"",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCbmNph6atAoGfqLoCL_duAg"
+        },
+        "snippet": {
+          "publishedAt": "2006-12-19T19:49:14.000Z",
+          "channelId": "UCbmNph6atAoGfqLoCL_duAg",
+          "title": "AtGoogleTalks",
+          "description": "The Talks at Google program brings authors, musicians, innovators, and speakers of all stripes to Google for talks centering on their recently published book...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/i/bmNph6atAoGfqLoCL_duAg/1.jpg"
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/i/bmNph6atAoGfqLoCL_duAg/mq1.jpg"
+            },
+            "high": {
+              "url": "https://i.ytimg.com/i/bmNph6atAoGfqLoCL_duAg/hq1.jpg"
+            }
+          },
+          "channelTitle": "AtGoogleTalks"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"KEUMKBAfMFio6qdGCa6Hez6bAHI/I5ypNtouE9bdAG6sqDFSl2uE96U\"",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCtXKDgv1AVoG88PLl8nGXmw"
+        },
+        "snippet": {
+          "publishedAt": "2007-08-15T23:10:56.000Z",
+          "channelId": "UCtXKDgv1AVoG88PLl8nGXmw",
+          "title": "GoogleTechTalks",
+          "description": "Google Tech Talks is a grass-roots program at Google for sharing information of interest to the technical community. At its best, it's part of an ongoing dis...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/i/tXKDgv1AVoG88PLl8nGXmw/1.jpg"
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/i/tXKDgv1AVoG88PLl8nGXmw/mq1.jpg"
+            },
+            "high": {
+              "url": "https://i.ytimg.com/i/tXKDgv1AVoG88PLl8nGXmw/hq1.jpg"
+            }
+          },
+          "channelTitle": "GoogleTechTalks"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"KEUMKBAfMFio6qdGCa6Hez6bAHI/0n-zkr-27eu13b_8AVWArohE3No\"",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw"
+        },
+        "snippet": {
+          "publishedAt": "2007-08-23T00:34:43.000Z",
+          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+          "title": "GoogleDevelopers",
+          "description": "Talks, screencasts, interviews, and more relevant to Google's developer products.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/i/_x5XG1OV2P6uZZ5FSM9Ttw/1.jpg"
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/i/_x5XG1OV2P6uZZ5FSM9Ttw/mq1.jpg"
+            },
+            "high": {
+              "url": "https://i.ytimg.com/i/_x5XG1OV2P6uZZ5FSM9Ttw/hq1.jpg"
+            }
+          },
+          "channelTitle": "GoogleDevelopers"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"KEUMKBAfMFio6qdGCa6Hez6bAHI/vFeSVNELZ1cdlrfUIGRSqZR_vM0\"",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCg44zX42-GjMr5XqyK3RmsQ"
+        },
+        "snippet": {
+          "publishedAt": "2012-07-11T14:19:41.000Z",
+          "channelId": "UCg44zX42-GjMr5XqyK3RmsQ",
+          "title": "googlefiberofficial",
+          "description": "Google Fiber starts with a connection speed 100 times faster than today's average broadband. Instant downloads. Crystal clear HD. And endless possibilities. ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/i/g44zX42-GjMr5XqyK3RmsQ/1.jpg"
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/i/g44zX42-GjMr5XqyK3RmsQ/mq1.jpg"
+            },
+            "high": {
+              "url": "https://i.ytimg.com/i/g44zX42-GjMr5XqyK3RmsQ/hq1.jpg"
+            }
+          },
+          "channelTitle": "googlefiberofficial"
+        }
+      }
+    ]
+  }
+}
